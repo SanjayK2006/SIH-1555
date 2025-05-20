@@ -1,26 +1,53 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
-## Problem Title
-SIH 1555: Create a Virtual Herbal Garden that provides an interactive, educational, and immersive experience to users, showcasing the diverse range of medicinal plants used in AYUSH (Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy).
-## Problem Description
-Background: The AYUSH sector relies heavily on medicinal plants and herbs, which form the backbone of traditional healing practices. However, physical gardens that are not accessible to everyone. A Virtual Herbal Garden will bridge this gap by offering a digital platform where users can explore, learn, and understand the significance of various medicinal plants from the comfort of their homes. Description: Participants are tasked with developing a Virtual Herbal Garden that is engaging, informative, and user-friendly. This virtual garden should include: Interactive 3D Models: Realistic 3D models of medicinal plants that users can rotate, zoom, and explore from different angles. Detailed Information: Comprehensive details about each plant, including its botanical name, common names, habitat, medicinal uses, and methods of cultivation. Multimedia Integration: High-quality images, videos, and audio descriptions to enhance the learning experience. Search and Filter Options: Advanced search functionality to easily locate specific plants and filter them based on various criteria like medicinal uses, region, and type. Virtual Tours: Guided virtual tours highlighting specific themes, such as plants for digestive health, immunity, skin care, etc. User Interaction: Features that allow users to bookmark favourite plants, take notes, and share information on social media. Expected Outcome: The expected outcome is a comprehensive Virtual Herbal Garden that serves as a valuable educational tool for students, practitioners, and enthusiasts of the AYUSH sector. This platform should make the knowledge of medicinal plants accessible to a wider audience, promoting awareness and understanding of traditional herbal practices. It should be visually appealing, informative, and interactive, providing users with an immersive experience that combines technology with traditional knowledge.
+# Date: 20-05-2025
+## Register Number:212223220094
+## Name: SANJAY K
 
+## Problem Title 
+
+
+E-Waste Facility Locator
+## Problem Description
+Website that tells you the location of the nearest e-waste collection and recycling facility. Offers educational pop-ups on the harmful components of your e-waste and their effects on the environment and human health if not disposed correctly. There could be an option to input the model of your old device and earn credit points relative to the amount of precious metals recovered from the device if disposed correctly.
 ## Problem Creater's Organization
-Ministry of Ayush
+Ministry of Environment
 
 ## Idea
+1.Alumni Registration: Easy registration for alumni to join the association, update profiles, and connect with peers and the institution. 2.Donation Portal: Secure system for alumni to donate to the college's initiatives. 3.Networking Hub: Sections to connect alumni based on shared interests, profession, and geography. 4.Job Portal: Allows alumni to explore job opportunities, post job openings, and network with potential employers. 5.Alumni Directory: A searchable directory of alumni based on criteria such as graduation year, field of study, industry, location, etc. 6.Success Story Tracking: Showcase alumni achievements and inspire current students. 7.Events and Reunions: Announcements, registrations, and management for alumni events, reunions, workshops, and professional sessions. 8.Feedback and Surveys: Allows alumni to provide feedback and participate in surveys to improve the association.
+
+
+
 
 
 ## Proposed Solution / Architecture Diagram
+![DFD Second Level_4](https://github.com/user-attachments/assets/02e3c34e-fca1-4f67-b8af-c219ef6a2a4c)
 
 
-## Use Cases
+## Use Case
 
+![uml](https://github.com/user-attachments/assets/dc2fe7d8-0c09-41d6-9748-e3f782fbbc6d)
 
 ## Technology Stack
+Frontend: React.js, React Native
 
+Backend: Node.js, Express.js
+
+Database: MongoDB / PostgreSQL
+
+Authentication: JWT
+
+Payment Gateway: Razorpay / Stripe
 
 ## Dependencies
 
+Frontend Development: 15 days
+
+Backend Development: 20 days
+
+Database Setup: 10 days
+
+Testing and Deployment: 15 days
+
+Budget:
+
+Rs. 50,000
